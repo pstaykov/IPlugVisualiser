@@ -50,15 +50,3 @@ Adjust the sliders at the bottom of the interface to fine-tune the behavior:
 - **Strength** – increases or decreases the particle displacement amplitude
 - **Speed** – controls how quickly particles react and return toward the center
 
-## Repository Structure
-
-IPlugVisualizer/
-│
-├── src/ # Source code (.cpp / .h)
-├── resources/ # Fonts, images, and other assets
-├── config/ # iPlug2 project configuration
-├── scripts/ # Build and packaging scripts
-├── projects/ # Xcode project files (optional)
-├── README.md
-├── LICENSE
-└── .gitignore
