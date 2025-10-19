@@ -1,0 +1,22 @@
+# Build artifacts
+build-*/
+*.vst3
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.app
+
+# IDE and system
+.vs/
+.vscode/
+*.user
+*.suo
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Dependencies
+Dependencies/
