@@ -50,3 +50,9 @@ Adjust the sliders at the bottom of the interface to fine-tune the behavior:
 - **Strength** – increases or decreases the particle displacement amplitude
 - **Speed** – controls how quickly particles react and return toward the center
 
+### Example Visualization
+
+The following image shows the plugin running on the executable app:
+
+![IPlugVisualizer Screenshot](images/visualiser.png)
+
