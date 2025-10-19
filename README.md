@@ -36,11 +36,7 @@ The visualization parameters are adjustable in real time through user-accessible
 
 ### Build Instructions
 1. Place this project folder inside the `Examples/` directory of your iPlug2 checkout.  
-   Example:
-iPlug2/Examples/IPlugVisualizer/
-
-markdown
-Copy code
+   Example: iPlug2/Examples/IPlugVisualizer/
 2. Open the Visual Studio or Xcode project file corresponding to your platform.
 3. Build the target `IPlugVisualizer-vst3`.
 4. The compiled plugin will be available under `build-win/vst3/x64/Release/IPlugVisualizer.vst3`
@@ -66,16 +62,3 @@ IPlugVisualizer/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
-csharp
-Copy code
-
-## License
-
-This project is released under the MIT License.  
-See the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Developed by Ivo (2025).  
-Built as an exploration of real-time graphics and digital signal processing using iPlug2.
